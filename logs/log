@@ -1,0 +1,47 @@
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 213-791-089
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/Dec/2019 14:20:22] "GET /todos/todo1 HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [15/Dec/2019 14:20:23] "GET /todos/todo1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/Dec/2019 14:20:23] "GET /todos/todo1?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/Dec/2019 14:20:23] "GET /todos/todo1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/Dec/2019 14:20:23] "GET /todos/todo1?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/Dec/2019 14:20:23] "GET /todos/todo1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/Dec/2019 14:20:23] "GET /todos/todo1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 213-791-089
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/Dec/2019 14:21:16] "GET /todos/todo1 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/Dec/2019 14:21:30] "GET /xvideo.comapi/v1.0/index HTTP/1.1" 404 -
+ERROR demo.py:16 error info
+WARNING demo.py:17 warn info
+INFO demo.py:18 info info
+DEBUG demo.py:19 debug info
+INFO _internal.py:122 127.0.0.1 - - [15/Dec/2019 14:21:38] "GET /api/v1.0/index HTTP/1.1" 200 -
